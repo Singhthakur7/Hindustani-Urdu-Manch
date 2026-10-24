@@ -1,0 +1,6 @@
+{
+  "name": "Hindustani Urdu Manch (HUM Centre)",
+  "description": "Prestigious cultural and literary community centre in Bengaluru dedicated to Urdu poetry, Monday Ghazals, inter-college recitation competitions, and golden era musical tributes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
